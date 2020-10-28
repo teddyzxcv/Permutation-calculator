@@ -1,0 +1,13 @@
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\bin\Debug\netcoreapp3.1\Permutation-calculator.exe
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\bin\Debug\netcoreapp3.1\Permutation-calculator.deps.json
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\bin\Debug\netcoreapp3.1\Permutation-calculator.runtimeconfig.json
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\bin\Debug\netcoreapp3.1\Permutation-calculator.runtimeconfig.dev.json
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\bin\Debug\netcoreapp3.1\Permutation-calculator.dll
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\bin\Debug\netcoreapp3.1\Permutation-calculator.pdb
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\obj\Debug\netcoreapp3.1\Permutation-calculator.csprojAssemblyReference.cache
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\obj\Debug\netcoreapp3.1\Permutation-calculator.AssemblyInfoInputs.cache
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\obj\Debug\netcoreapp3.1\Permutation-calculator.AssemblyInfo.cs
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\obj\Debug\netcoreapp3.1\Permutation-calculator.csproj.CoreCompileInputs.cache
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\obj\Debug\netcoreapp3.1\Permutation-calculator.dll
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\obj\Debug\netcoreapp3.1\Permutation-calculator.pdb
+C:\Users\teddyzxcv\Documents\GitHub\Permutation-calculator\obj\Debug\netcoreapp3.1\Permutation-calculator.genruntimeconfig.cache
